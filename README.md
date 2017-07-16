@@ -1,1 +1,3 @@
-# Wordlist_Generator-
+# Wordlist_Generator
+
+python WG.py 
